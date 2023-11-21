@@ -1,0 +1,98 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Search on composite keys
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Search on composite keys
+    internal_properties : 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
+    configuration_id : 1750817589032542578
+    type : 1
+    generation_name : WD Search On Composite Keys.exe
+    version :
+     version : VI200028
+    icon_filename : .\compkey.ico
+    language : 2
+ elements :
+  identifier : 0x4acc5373000d783c
+  elements :
+   -
+     name : GlobalProcedures
+     identifier : 0x3db518f501e33c99
+     internal_properties : CAAAAAgAAAAHA2+zcC2FprF0jK4qRbApPVpgsK7hrnSubCvszm0p1xEjVs4zlRgLzkiyDpZKNqoSEg==
+     physical_name : .\GlobalProcedures.wdg
+     type : 7
+   -
+     name : WIN_CompositeKey
+     identifier : 0x3db518f42c7a3c8f
+     internal_properties : CAAAAAgAAADxTSl9yve/8P+O2hh0ufbzR3AiAusZOpDe/C8zMTndEynHlg7x12bZmIJ8RMwE/OzUXA==
+     physical_name : .\WIN_CompositeKey.wdw
+     type : 2
+   -
+     name : TEST_CompositeKey
+     identifier : 0x472f16c900074d7e
+     internal_properties : CAAAAAgAAAD6UCJmRQIqNTLBGd+rxzeshMVTW3XRkZ5KCIWRnHsRx3mJ1k6yFqeYW8U/uXl3A/XfZw==
+     physical_name : .\TEST_CompositeKey.wxt
+     type : 17
+  other_elements :
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Search On Composite Keys.ana\WD Search On Composite Keys.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ wd_style_sheet : .\WD Search On Composite Keys.sty
+ wb_style_sheet : .\WD Search On Composite Keys.wws
+ code_elements :
+  internal_properties : CAAAAAgAAAA+PQO2ZI4jIbinMFD4bg4TxKNhxbjqhkRj+CK99Ih8poCVJEOxRkvSlHZmuhYHU0m/3hCfYGlFbHJAyu3Cq9UTvi48
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Search on composite keys
+     identifier : 0x4acc5373001178d8
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
